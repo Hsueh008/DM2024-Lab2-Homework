@@ -1,4 +1,4 @@
-/dataset/*
+/dataset
 /saved_model
 /submission
 *.json
